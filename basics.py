@@ -40,9 +40,9 @@ def histogram_figure_numba(np_img):
     
     # Normalize the histogram values (optional, for better visualization)
     total_pixels = height * width
-    r_bars = r_bars / total_pixels * 3  # Scale for visualization
-    g_bars = g_bars / total_pixels * 3
-    b_bars = b_bars / total_pixels * 3
+    r_bars = r_bars / total_pixels * 10  # Scale for visualization
+    g_bars = g_bars / total_pixels * 10
+    b_bars = b_bars / total_pixels * 10
     
     return r_bars, g_bars, b_bars
 
