@@ -104,7 +104,7 @@ This project is developed for educational purposes as part of a university cours
 
 ## 👥 Authors
 
-Developed by students at Technische Hochschule Ingolstadt under the guidance of Professor Dominik Rößle.
+Developed by students Rohan Raj, Angel Lopez Hortelano and Begüm Sezer at Technische Hochschule Ingolstadt under the guidance of Professors Torsten Schön, Venkatesh Thirugnana Sambandham and Dominik Rößle.
 
 ## 🔗 References
 
